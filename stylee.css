@@ -1,0 +1,53 @@
+.navbar{
+     background-color:black;
+     height:60px;
+     
+}
+.my{
+color: yellow;
+font-size: 15px;
+text-decoration: none;
+margin-right: 230px;
+
+
+
+}
+a:hover{
+    background-color: rgb(119, 145, 145);
+    height: :60px;
+    
+}
+
+button{
+    background-color: yellow;
+
+}
+.you{
+    font-size: 20px;
+}
+.ground{
+    background-color: antiquewhite;
+}
+p{
+padding: 0px;
+margin: 2px;
+color:yellow
+}
+
+
+.tone{
+    float: left;
+    width:33%;
+    background-color: black;
+    border: 2px solid ;
+    }
+p:hover{
+    background-color: cadetblue;
+    padding: 5px;
+    margin: 5px;
+}
+.map{
+    float:left;
+    width: 33px;
+    margin-left:900px;
+}
